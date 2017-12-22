@@ -1,0 +1,1 @@
+This is Shanda's first git project!
